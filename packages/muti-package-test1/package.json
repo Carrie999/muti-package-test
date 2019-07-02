@@ -1,0 +1,11 @@
+{
+  "name": "muti-package-test1",
+  "version": "0.0.1",
+  "description": "Configuration and scripts for Create React App.",
+  "bin": {
+    "test1": "./index.js"
+  },
+  "main": {
+    "test1": "./index.js"
+  }
+}
